@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    direction: rtl;
+  
+}
+.bg-login{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(239, 239, 239);
+}
+
+.box-login{
+    margin: auto;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 5%;
+}
+
+.form{
+    margin-top: 5%;
+}
+

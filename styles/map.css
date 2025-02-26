@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(imamu.svg);
+    background-position: center;
+
+}
+.container{
+display: flex;
+justify-content: center;
+flex-direction: column;
+height: 100vh;
+}
